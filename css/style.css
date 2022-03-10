@@ -12,13 +12,16 @@ body{
     margin: 14px;
     margin: auto;
     margin-top: 1%;
-    border: 2px solid #69656f;
+    border: 3px solid #212122;
+    background-color: #69656f;
     border-radius: 20px;
     box-shadow: 0px 15px 20px 0px rgba(0,0,0,0.5);
 
 }
 
 .cabecera{
+    display: grid;
+    grid-template-columns: auto 2fr;
     background: #f7efed;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: #293249;
@@ -27,6 +30,14 @@ body{
     text-align: left;
     padding-left: 4px;
     border-radius: 20px;
+    border: 2px solid #212122;
+}
+
+.cabecera img{
+    width: 34px;
+    height: 34px;
+    object-fit: fill;
+    padding: 12px 4px 0px 3px;
 }
 
 .post p{
