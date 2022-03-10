@@ -19,6 +19,10 @@ body{
 
 }
 
+.container p{
+    margin: 0 10px 0 10px;
+}
+
 .cabecera{
     display: grid;
     grid-template-columns: auto 2fr;
