@@ -8,7 +8,7 @@ body{
 }
 
 .container{
-    width: 80%;
+    width: 60%;
     margin: 14px;
     margin: auto;
     margin-top: 1%;
@@ -45,8 +45,18 @@ body{
     padding: 6px;
 }
 
+.footer{
+    font-size: small;
+    font-style: oblique;
+    font-family: cursive;
+}
+
+.footer h4{
+    margin: 0 6px 6px 0;
+}
+
 .agradecimientos{
-    width: 80%;
+    width: 60%;
     margin: auto;
     font-weight: lighter;
 }
