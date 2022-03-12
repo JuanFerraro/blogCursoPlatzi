@@ -49,6 +49,11 @@ body{
     padding: 6px;
 }
 
+.post p img{
+    display: block;
+    margin: auto;
+}
+
 .footer{
     font-size: small;
     font-style: oblique;
