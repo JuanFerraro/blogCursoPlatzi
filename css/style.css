@@ -69,3 +69,13 @@ body{
     margin: auto;
     font-weight: lighter;
 }
+
+@media (max-width: 640px){
+    .container{
+        width: 90%;
+    }
+
+    .agradecimientos{
+        width: 90%;
+    }
+}
