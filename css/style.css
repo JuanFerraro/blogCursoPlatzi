@@ -49,7 +49,7 @@ body{
     padding: 6px;
 }
 
-.post p img{
+.post p a img{
     display: block;
     margin: auto;
 }
